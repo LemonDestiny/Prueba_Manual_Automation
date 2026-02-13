@@ -12,6 +12,8 @@ Objetivo: Validar el funcionamiento esencial de la plataforma Automation Exercis
   • Diseño de Pruebas: Se diseñó una Suite de Pruebas cubriendo escenarios de tipo "Happy Path" (búsqueda por categoría y marca). Asimismo, se evaluó la respuesta de la UI y la persistencia de datos ante eventos de navegación.
   
   • Automatización: Se implementaron scripts automatizados bajo el patrón Page Object Model (POM) para garantizar la mantenibilidad del código.
+  
+  Se seleccionaron y automatizaron los casos de prueba correspondientes a los flujos críticos de negocio y funcionalidades primarias de la plataforma. Se priorizó el       escenario de 'Añadir al carrito' por ser una función vital en un entorno de E-commerce, asegurando así la integridad del Happy Path principal y la correcta interacción entre los módulos de productos y ventas. 
       
 🔧Herramientas Utilizadas:
 -
